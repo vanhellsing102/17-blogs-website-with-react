@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "title": "Exploring the Depths of the Ocean",
+        "author": "Jane Smith",
+        "author_image": "https://ibb.co/NmWRtd1",
+        "cover_image": "https://ibb.co/C9NN9tc",
+        "post_date": "2023-07-04",
+        "reading_time": 10,
+        "hashtag": "#OceanExploration"
+    },
+    {
+        "id": "2",
+        "title": "The Wonders of Space",
+        "author": "John Doe",
+        "author_image": "https://ibb.co/NmWRtd1",
+        "cover_image": "https://ibb.co/pZTSJK5",
+        "post_date": "2023-07-03",
+        "reading_time": 15,
+        "hashtag": "#SpaceTravel"
+    },
+    {
+        "id": "3",
+        "title": "A Journey Through the Amazon Rainforest",
+        "author": "Alice Johnson",
+        "author_image": "https://ibb.co/NmWRtd1",
+        "cover_image": "https://ibb.co/MSHmSbX",
+        "post_date": "2023-07-02",
+        "reading_time": 12,
+        "hashtag": "#AmazonAdventure"
+    },
+    {
+        "id": "4",
+        "title": "The Secrets of Ancient Egypt",
+        "author": "Michael Brown",
+        "author_image": "https://ibb.co/NmWRtd1",
+        "cover_image": "https://ibb.co/brWsgPZ",
+        "post_date": "2023-07-01",
+        "reading_time": 8,
+        "hashtag": "#AncientHistory"
+    },
+    {
+        "id": "5",
+        "title": "Cooking Delicious Vegan Meals",
+        "author": "Emily Davis",
+        "author_image": "https://ibb.co/NmWRtd1", 
+        "cover_image": "https://ibb.co/6YzGNGh",
+        "post_date": "2023-06-30",
+        "reading_time": 20,
+        "hashtag": "#VeganCooking"
+    }
+]
